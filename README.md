@@ -3,30 +3,30 @@ Controllo is a GUI library written by Ted Frohlich for the [Processing](http://w
 
 Detailed description.
 
-# Contents
+## Contents
 
-# Installation
+## Installation
 
-# Getting Started
+## Getting Started
 
-# How does Controllo work?
+## How does Controllo work?
 
-# Event Handling
+## Event Handling
 
-# Customizing Controllers
+## Customizing Controllers
 
-# Deprecated
+## Deprecated
 
-# History
+## History
 
-# Font rendering
+## Font rendering
 
-# Android
+## Android
 
-# Javascript
+## Javascript
 
-# Problems and Issues
+## Problems and Issues
 
-# Help
+## Help
 
 Copyright 2016 Ted Frohlich
